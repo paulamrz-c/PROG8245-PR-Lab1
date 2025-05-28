@@ -1,0 +1,368 @@
+StoreID,city,province,estimated_population
+1,Halifax,Nova Scotia,440000
+2,Whitehorse,Yukon,29000
+3,Ottawa,Ontario,1018000
+4,Halifax,Nova Scotia,440000
+5,Fredericton,New Brunswick,64000
+6,Quebec City,Quebec,550000
+7,Fredericton,New Brunswick,64000
+8,Quebec City,Quebec,550000
+9,Toronto,Ontario,2930000
+10,Fredericton,New Brunswick,64000
+11,Regina,Saskatchewan,226000
+12,Iqaluit,Nunavut,8000
+13,Edmonton,Alberta,981000
+14,Vancouver,British Columbia,675000
+15,Fredericton,New Brunswick,64000
+16,Victoria,British Columbia,397000
+17,Regina,Saskatchewan,226000
+18,Charlottetown,Prince Edward Island,36000
+19,Quebec City,Quebec,550000
+20,Fredericton,New Brunswick,64000
+21,Regina,Saskatchewan,226000
+22,Winnipeg,Manitoba,749000
+23,St. John's,Newfoundland and Labrador,211000
+24,Whitehorse,Yukon,29000
+25,Calgary,Alberta,1239000
+26,Halifax,Nova Scotia,440000
+27,St. John's,Newfoundland and Labrador,211000
+28,Victoria,British Columbia,397000
+29,Regina,Saskatchewan,226000
+30,Regina,Saskatchewan,226000
+31,Toronto,Ontario,2930000
+32,St. John's,Newfoundland and Labrador,211000
+33,Quebec City,Quebec,550000
+34,Toronto,Ontario,2930000
+35,Montreal,Quebec,1780000
+36,Whitehorse,Yukon,29000
+37,Regina,Saskatchewan,226000
+38,Halifax,Nova Scotia,440000
+39,Victoria,British Columbia,397000
+40,Halifax,Nova Scotia,440000
+41,Winnipeg,Manitoba,749000
+42,Quebec City,Quebec,550000
+43,Ottawa,Ontario,1018000
+44,Calgary,Alberta,1239000
+45,Montreal,Quebec,1780000
+46,Regina,Saskatchewan,226000
+47,Fredericton,New Brunswick,64000
+48,Montreal,Quebec,1780000
+49,Victoria,British Columbia,397000
+50,Ottawa,Ontario,1018000
+51,Vancouver,British Columbia,675000
+52,Regina,Saskatchewan,226000
+53,Saskatoon,Saskatchewan,278000
+54,Charlottetown,Prince Edward Island,36000
+55,Edmonton,Alberta,981000
+56,Winnipeg,Manitoba,749000
+57,Ottawa,Ontario,1018000
+58,Iqaluit,Nunavut,8000
+59,Victoria,British Columbia,397000
+60,Yellowknife,Northwest Territories,21000
+61,Yellowknife,Northwest Territories,21000
+62,Quebec City,Quebec,550000
+63,Edmonton,Alberta,981000
+64,Quebec City,Quebec,550000
+65,Whitehorse,Yukon,29000
+66,Regina,Saskatchewan,226000
+67,Saskatoon,Saskatchewan,278000
+68,Calgary,Alberta,1239000
+69,Fredericton,New Brunswick,64000
+70,Vancouver,British Columbia,675000
+71,Ottawa,Ontario,1018000
+72,Halifax,Nova Scotia,440000
+73,St. John's,Newfoundland and Labrador,211000
+74,Iqaluit,Nunavut,8000
+75,Victoria,British Columbia,397000
+76,Vancouver,British Columbia,675000
+77,St. John's,Newfoundland and Labrador,211000
+78,Toronto,Ontario,2930000
+79,Quebec City,Quebec,550000
+80,Iqaluit,Nunavut,8000
+81,Calgary,Alberta,1239000
+82,Fredericton,New Brunswick,64000
+83,Victoria,British Columbia,397000
+84,Quebec City,Quebec,550000
+85,St. John's,Newfoundland and Labrador,211000
+86,Victoria,British Columbia,397000
+87,Calgary,Alberta,1239000
+88,Halifax,Nova Scotia,440000
+89,Whitehorse,Yukon,29000
+90,Toronto,Ontario,2930000
+91,Iqaluit,Nunavut,8000
+92,Saskatoon,Saskatchewan,278000
+93,Halifax,Nova Scotia,440000
+94,Vancouver,British Columbia,675000
+95,Fredericton,New Brunswick,64000
+96,Regina,Saskatchewan,226000
+97,Charlottetown,Prince Edward Island,36000
+98,Calgary,Alberta,1239000
+99,Ottawa,Ontario,1018000
+100,Montreal,Quebec,1780000
+101,Montreal,Quebec,1780000
+102,Regina,Saskatchewan,226000
+103,Whitehorse,Yukon,29000
+104,Calgary,Alberta,1239000
+105,Calgary,Alberta,1239000
+106,Halifax,Nova Scotia,440000
+107,Iqaluit,Nunavut,8000
+108,Ottawa,Ontario,1018000
+109,St. John's,Newfoundland and Labrador,211000
+110,Fredericton,New Brunswick,64000
+111,Victoria,British Columbia,397000
+112,Iqaluit,Nunavut,8000
+113,Charlottetown,Prince Edward Island,36000
+114,Ottawa,Ontario,1018000
+115,Charlottetown,Prince Edward Island,36000
+116,Calgary,Alberta,1239000
+117,Whitehorse,Yukon,29000
+118,Charlottetown,Prince Edward Island,36000
+119,Quebec City,Quebec,550000
+120,Montreal,Quebec,1780000
+121,Victoria,British Columbia,397000
+122,Winnipeg,Manitoba,749000
+123,Fredericton,New Brunswick,64000
+124,Fredericton,New Brunswick,64000
+125,Halifax,Nova Scotia,440000
+126,Victoria,British Columbia,397000
+127,Calgary,Alberta,1239000
+128,Victoria,British Columbia,397000
+129,Iqaluit,Nunavut,8000
+130,Victoria,British Columbia,397000
+131,Montreal,Quebec,1780000
+132,St. John's,Newfoundland and Labrador,211000
+133,Quebec City,Quebec,550000
+134,Winnipeg,Manitoba,749000
+135,Calgary,Alberta,1239000
+136,Fredericton,New Brunswick,64000
+137,Vancouver,British Columbia,675000
+138,Winnipeg,Manitoba,749000
+139,Toronto,Ontario,2930000
+140,Montreal,Quebec,1780000
+141,Saskatoon,Saskatchewan,278000
+142,Halifax,Nova Scotia,440000
+143,Ottawa,Ontario,1018000
+144,Winnipeg,Manitoba,749000
+145,Vancouver,British Columbia,675000
+146,Iqaluit,Nunavut,8000
+147,Winnipeg,Manitoba,749000
+148,Winnipeg,Manitoba,749000
+149,Halifax,Nova Scotia,440000
+150,Saskatoon,Saskatchewan,278000
+151,Ottawa,Ontario,1018000
+152,Toronto,Ontario,2930000
+153,Quebec City,Quebec,550000
+154,Ottawa,Ontario,1018000
+155,Ottawa,Ontario,1018000
+156,Iqaluit,Nunavut,8000
+157,Quebec City,Quebec,550000
+158,Edmonton,Alberta,981000
+159,Calgary,Alberta,1239000
+160,Toronto,Ontario,2930000
+161,Ottawa,Ontario,1018000
+162,Toronto,Ontario,2930000
+163,Victoria,British Columbia,397000
+164,Halifax,Nova Scotia,440000
+165,Saskatoon,Saskatchewan,278000
+166,Toronto,Ontario,2930000
+167,Edmonton,Alberta,981000
+168,Quebec City,Quebec,550000
+169,Montreal,Quebec,1780000
+170,Ottawa,Ontario,1018000
+171,Charlottetown,Prince Edward Island,36000
+172,Yellowknife,Northwest Territories,21000
+173,Calgary,Alberta,1239000
+174,Vancouver,British Columbia,675000
+175,Whitehorse,Yukon,29000
+176,Fredericton,New Brunswick,64000
+177,Victoria,British Columbia,397000
+178,Yellowknife,Northwest Territories,21000
+179,Calgary,Alberta,1239000
+180,Fredericton,New Brunswick,64000
+181,Yellowknife,Northwest Territories,21000
+182,Halifax,Nova Scotia,440000
+183,Montreal,Quebec,1780000
+184,Yellowknife,Northwest Territories,21000
+185,Regina,Saskatchewan,226000
+186,Fredericton,New Brunswick,64000
+187,Toronto,Ontario,2930000
+188,Montreal,Quebec,1780000
+189,Whitehorse,Yukon,29000
+190,St. John's,Newfoundland and Labrador,211000
+191,Charlottetown,Prince Edward Island,36000
+192,Calgary,Alberta,1239000
+193,Whitehorse,Yukon,29000
+194,Fredericton,New Brunswick,64000
+195,Vancouver,British Columbia,675000
+196,Vancouver,British Columbia,675000
+197,Saskatoon,Saskatchewan,278000
+198,Ottawa,Ontario,1018000
+199,Vancouver,British Columbia,675000
+200,Ottawa,Ontario,1018000
+201,Quebec City,Quebec,550000
+202,Iqaluit,Nunavut,8000
+203,Saskatoon,Saskatchewan,278000
+204,St. John's,Newfoundland and Labrador,211000
+205,Yellowknife,Northwest Territories,21000
+206,Regina,Saskatchewan,226000
+207,Fredericton,New Brunswick,64000
+208,Yellowknife,Northwest Territories,21000
+209,Charlottetown,Prince Edward Island,36000
+210,Calgary,Alberta,1239000
+211,Calgary,Alberta,1239000
+212,Iqaluit,Nunavut,8000
+213,Winnipeg,Manitoba,749000
+214,Charlottetown,Prince Edward Island,36000
+215,Fredericton,New Brunswick,64000
+216,Halifax,Nova Scotia,440000
+217,Charlottetown,Prince Edward Island,36000
+218,Saskatoon,Saskatchewan,278000
+219,Fredericton,New Brunswick,64000
+220,St. John's,Newfoundland and Labrador,211000
+221,Charlottetown,Prince Edward Island,36000
+222,Calgary,Alberta,1239000
+223,Saskatoon,Saskatchewan,278000
+224,Charlottetown,Prince Edward Island,36000
+225,Saskatoon,Saskatchewan,278000
+226,Quebec City,Quebec,550000
+227,Victoria,British Columbia,397000
+228,Ottawa,Ontario,1018000
+229,Whitehorse,Yukon,29000
+230,Vancouver,British Columbia,675000
+231,Vancouver,British Columbia,675000
+232,Vancouver,British Columbia,675000
+233,Vancouver,British Columbia,675000
+234,Charlottetown,Prince Edward Island,36000
+235,Calgary,Alberta,1239000
+236,Victoria,British Columbia,397000
+237,Ottawa,Ontario,1018000
+238,Iqaluit,Nunavut,8000
+239,Montreal,Quebec,1780000
+240,Iqaluit,Nunavut,8000
+241,Iqaluit,Nunavut,8000
+242,Saskatoon,Saskatchewan,278000
+243,Calgary,Alberta,1239000
+244,Charlottetown,Prince Edward Island,36000
+245,Victoria,British Columbia,397000
+246,Charlottetown,Prince Edward Island,36000
+247,Montreal,Quebec,1780000
+248,Regina,Saskatchewan,226000
+249,Regina,Saskatchewan,226000
+250,Victoria,British Columbia,397000
+251,Calgary,Alberta,1239000
+252,Yellowknife,Northwest Territories,21000
+253,Winnipeg,Manitoba,749000
+254,Ottawa,Ontario,1018000
+255,Whitehorse,Yukon,29000
+256,Halifax,Nova Scotia,440000
+257,Calgary,Alberta,1239000
+258,Victoria,British Columbia,397000
+259,Iqaluit,Nunavut,8000
+260,Victoria,British Columbia,397000
+261,Calgary,Alberta,1239000
+262,Quebec City,Quebec,550000
+263,Halifax,Nova Scotia,440000
+264,Charlottetown,Prince Edward Island,36000
+265,Iqaluit,Nunavut,8000
+266,Iqaluit,Nunavut,8000
+267,Toronto,Ontario,2930000
+268,Quebec City,Quebec,550000
+269,Toronto,Ontario,2930000
+270,Edmonton,Alberta,981000
+271,Quebec City,Quebec,550000
+272,Regina,Saskatchewan,226000
+273,Saskatoon,Saskatchewan,278000
+274,Victoria,British Columbia,397000
+275,Toronto,Ontario,2930000
+276,Edmonton,Alberta,981000
+277,Ottawa,Ontario,1018000
+278,St. John's,Newfoundland and Labrador,211000
+279,Vancouver,British Columbia,675000
+280,Ottawa,Ontario,1018000
+281,Toronto,Ontario,2930000
+282,Vancouver,British Columbia,675000
+283,Yellowknife,Northwest Territories,21000
+284,Winnipeg,Manitoba,749000
+285,St. John's,Newfoundland and Labrador,211000
+286,Charlottetown,Prince Edward Island,36000
+287,Fredericton,New Brunswick,64000
+288,Saskatoon,Saskatchewan,278000
+289,Edmonton,Alberta,981000
+290,Victoria,British Columbia,397000
+291,Regina,Saskatchewan,226000
+292,Saskatoon,Saskatchewan,278000
+293,Vancouver,British Columbia,675000
+294,Montreal,Quebec,1780000
+295,Ottawa,Ontario,1018000
+296,Edmonton,Alberta,981000
+297,Montreal,Quebec,1780000
+298,Vancouver,British Columbia,675000
+299,Quebec City,Quebec,550000
+300,Fredericton,New Brunswick,64000
+301,Charlottetown,Prince Edward Island,36000
+302,Whitehorse,Yukon,29000
+303,Fredericton,New Brunswick,64000
+304,Charlottetown,Prince Edward Island,36000
+305,Quebec City,Quebec,550000
+306,Winnipeg,Manitoba,749000
+307,Yellowknife,Northwest Territories,21000
+308,Calgary,Alberta,1239000
+309,Victoria,British Columbia,397000
+310,Charlottetown,Prince Edward Island,36000
+311,Calgary,Alberta,1239000
+312,Regina,Saskatchewan,226000
+313,Whitehorse,Yukon,29000
+314,Yellowknife,Northwest Territories,21000
+315,Regina,Saskatchewan,226000
+316,Montreal,Quebec,1780000
+317,Halifax,Nova Scotia,440000
+318,St. John's,Newfoundland and Labrador,211000
+319,Montreal,Quebec,1780000
+320,Toronto,Ontario,2930000
+321,Winnipeg,Manitoba,749000
+322,Regina,Saskatchewan,226000
+323,Winnipeg,Manitoba,749000
+324,Ottawa,Ontario,1018000
+325,Quebec City,Quebec,550000
+326,Regina,Saskatchewan,226000
+327,Saskatoon,Saskatchewan,278000
+328,Calgary,Alberta,1239000
+329,Toronto,Ontario,2930000
+330,Whitehorse,Yukon,29000
+331,Charlottetown,Prince Edward Island,36000
+332,Edmonton,Alberta,981000
+333,Ottawa,Ontario,1018000
+334,St. John's,Newfoundland and Labrador,211000
+335,Iqaluit,Nunavut,8000
+336,Halifax,Nova Scotia,440000
+337,Yellowknife,Northwest Territories,21000
+338,Iqaluit,Nunavut,8000
+339,Victoria,British Columbia,397000
+340,Vancouver,British Columbia,675000
+341,St. John's,Newfoundland and Labrador,211000
+342,Montreal,Quebec,1780000
+343,Charlottetown,Prince Edward Island,36000
+344,Toronto,Ontario,2930000
+345,Fredericton,New Brunswick,64000
+346,Vancouver,British Columbia,675000
+347,Saskatoon,Saskatchewan,278000
+348,Charlottetown,Prince Edward Island,36000
+349,St. John's,Newfoundland and Labrador,211000
+350,Charlottetown,Prince Edward Island,36000
+351,Regina,Saskatchewan,226000
+352,Calgary,Alberta,1239000
+353,St. John's,Newfoundland and Labrador,211000
+354,Toronto,Ontario,2930000
+355,Saskatoon,Saskatchewan,278000
+356,Edmonton,Alberta,981000
+357,Fredericton,New Brunswick,64000
+358,Victoria,British Columbia,397000
+359,Vancouver,British Columbia,675000
+360,Charlottetown,Prince Edward Island,36000
+361,Calgary,Alberta,1239000
+362,Halifax,Nova Scotia,440000
+363,Charlottetown,Prince Edward Island,36000
+364,St. John's,Newfoundland and Labrador,211000
+365,Yellowknife,Northwest Territories,21000
+366,Vancouver,British Columbia,675000
+367,St. John's,Newfoundland and Labrador,211000
